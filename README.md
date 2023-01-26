@@ -9,3 +9,7 @@ The purpose of the project is to transform a data set that is not ideal and fit 
 ## Summary
 The outcome of clustering using the PCA and K-means methods shows there are two main clusters.  First, using the Elbow Curve to find the best value for k shows four clusters should be used.  The 3D-scatter plot and hvplot.scatter plot shows that there are two main clusters with a few outliers representing the other two clusters.
 
+![3D_scatter](https://raw.githubusercontent.com/JBro-Birds/Cryptocurrencies/master/support_images/3D_scatter.png)
+
+![hvplot_scatter](https://raw.githubusercontent.com/JBro-Birds/Cryptocurrencies/master/support_images/hvplot_scatter.png)
+
